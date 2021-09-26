@@ -1,0 +1,30 @@
+[
+  {
+		"name": "Network Speed",
+		"baseHappiness": 9,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 0.25,
+		"unitCostModifier": 0.50,
+		"unitSupplyBase": 3,
+		"unitSupplyPerCity": 1,
+		"buildingCostModifier": 0.27,
+		"policyCostModifier": 0.30,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.33,
+		"playerBonusStartingUnits": [],
+		"aiCityGrowthModifier": 0.25,
+		"aiUnitCostModifier": 0.50,
+		"aiBuildingCostModifier": 0.27,
+		"aiWonderCostModifier": 0.40,
+		"aiBuildingMaintenanceModifier": 0.30,
+		"aiUnitMaintenanceModifier": 0.30,
+		"aiUnitSupplyModifier": 0.2,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 25
+	}
+]
